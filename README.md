@@ -75,7 +75,7 @@ Monthly & City-Level Reporting
 
 📚 Conclusion
 
-This project demonstrates how SQL can be used to convert raw retail data into actionable business insights. It’s an excellent starting point for data analysts to build their portfolios and showcase SQL skills to recruiters.
+This project demonstrates how SQL can be used to convert raw retail data into actionable business insights.
 
 📌 Author
 
